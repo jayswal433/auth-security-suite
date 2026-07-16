@@ -1,0 +1,2 @@
+[console_scripts]
+auth-security-suite = auth_security_suite.cli:main
